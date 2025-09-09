@@ -2,13 +2,15 @@ Este es un pequeño proyecto para practicar las skills en Python con diferentes 
 
 ## Requisitos
 - Python 3.8+
-- Librerías en `requirements.txt`
+- Librerías en `requirements.txt` (se utilizó pip freeze > requirements.txt)
 
 ## Instalación
 Clona este repositorio y ejecuta:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt "(instala las dependencias necesarias)"
+pip list  "(para ver si se instalaron correctamente)"
+```
 
 ## 👨‍💻 Author
 
