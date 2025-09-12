@@ -1,18 +1,49 @@
+# =========================
 # Entorno virtual
+# =========================
 venv/
 .env
+.env.*
 
+# =========================
 # Cachés de Python
+# =========================
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
+# =========================
+# Bases de datos locales
+# =========================
+*.db
+*.sqlite3
+
+# =========================
+# Archivos de log
+# =========================
+*.log
+*.log.*
+
+# =========================
 # Archivos de sistema
+# =========================
 .DS_Store
 Thumbs.db
 
+# =========================
 # Configuración del IDE
+# =========================
 .vscode/
 .idea/
+*.sublime-project
+*.sublime-workspace
 
-# Otros temporales
-*.log
+# =========================
+# Archivos temporales o binarios
+# =========================
+*.swp
+*.tmp
+*.bak
+*.exe
+*.dll
