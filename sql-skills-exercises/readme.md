@@ -5,6 +5,7 @@ Este proyecto es una **base de datos de videojuegos** obtenida desde la API de [
 Permite almacenar información de juegos como: nombre, plataformas, fecha de lanzamiento, rating y géneros.  
 Ideal para realizar consultas, rankings y análisis de datos offline, sin depender de la API en tiempo real.
 
+<img src="/sql-skills-exercises/preview-workbench.png" alt="preview">
 
 ## Características
 1- Trae los **primeros 500 juegos de PS4** desde RAWG usando Python.  
