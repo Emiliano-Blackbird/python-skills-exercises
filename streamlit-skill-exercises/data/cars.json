@@ -1,0 +1,59 @@
+{
+    "Ferrari f40 (1987)": {
+        "logo": "assets/ferrari_logo.svg",
+        "performance": {
+            "0_100_kmh": 4.0,
+            "0_200_kmh": 10.4,
+            "0_300_kmh": 31.0
+        }
+    },
+    "Ferrari 488 GTB (2015)": {
+        "logo": "assets/ferrari_logo.svg",
+        "performance": {
+            "0_100_kmh": 2.8,
+            "0_200_kmh": 8.1,
+            "0_300_kmh": 23.9
+        }
+    },
+    "Ford Mustang GT (2010)": {
+        "logo": "assets/ford_logo.svg",
+        "performance": {
+            "0_100_kmh": 5.8,
+            "0_200_kmh": 21.3
+        }
+    },
+    "Ford Mustang SVT Cobra (1996)": {
+        "logo": "assets/ford_logo.svg",
+        "performance": {
+            "0_100_kmh": 5.4,
+            "0_200_kmh": 22.5
+        }
+    },
+    "BMW M3 Competition (F80) (2016)": {
+        "logo": "assets/bmw_logo.svg",
+        "performance": {
+            "0_100_kmh": 4.0,
+            "0_200_kmh": 13.2
+        }
+    },
+    "BMW M5 Competition (F10) (2013)": {
+        "logo": "assets/bmw_logo.svg",
+        "performance": {
+            "0_100_kmh": 4.1,
+            "0_200_kmh": 12.3
+        }
+    },
+    "Mercedes - AMG GT 63 S E Performance (C192) (2024)": {
+        "logo": "assets/amg_logo.svg",
+        "performance": {
+            "0_100_kmh": 2.8,
+            "0_200_kmh": 9.3        }
+    },
+    "Mercedes - AMG C63 S E Performance T-Modell (2022)": {
+        "logo": "assets/amg_logo.svg",
+        "performance": {
+            "0_100_kmh": 3.3,
+            "0_200_kmh": 12.4
+        }
+    }
+}
