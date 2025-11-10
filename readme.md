@@ -1,4 +1,8 @@
-Este es un pequeño proyecto para practicar las skills en Python con diferentes ejercicios que abarcan desde cosas simples y básicas hasta cosas más complejas como mini proyectos.
+### Este es un pequeño proyecto para demostrar habilidades puntuales con ejercicios o ciertas tecnologías como SQL y Streamlit.
+
+<img src="./streamlit-skill-exercises/previews/car_velocity_preview.png" width="320" />
+
+<img src="./streamlit-skill-exercises/previews/Screenshot from 2025-11-10 17-24-15.png" width="400"/>
 
 ## Requisitos
 - Python 3.8+
